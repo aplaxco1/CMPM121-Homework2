@@ -15,8 +15,13 @@ list of where I obtained each of my assets, materials, and some code:
 https://github.com/aplaxco1/CMPM121-Homework1
 
 
+New Objects Added:
+- Pumkin String Lights - https://assetstore.unity.com/packages/3d/props/halloween-pumpkin-lantern-153723
+- Jack-o'-Lantern - https://assetstore.unity.com/packages/3d/props/halloween-pumpkin-lantern-153723
+
 Types of Lighting Used:
 - Directional Light: Environmental Light, Skybox
+- Point Lights (x8): Attatched to Pumpkin String Lights Object, and Jack-o'-Lantern Object
+- Spot Lights (x4): Attatched to Lamps
 - 
-- 
-- 
+- Emmisive Materials - Laptop, Pumpkin String Lights, Jack-o'-Lantern
