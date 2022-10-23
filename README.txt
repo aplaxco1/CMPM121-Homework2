@@ -16,7 +16,7 @@ https://github.com/aplaxco1/CMPM121-Homework1
 
 
 Types of Lighting Used:
-- 
+- Directional Light: Environmental Light, Skybox
 - 
 - 
 - 
