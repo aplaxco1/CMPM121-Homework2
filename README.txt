@@ -23,5 +23,5 @@ Types of Lighting Used:
 - Directional Light: Environmental Light, Skybox
 - Point Lights (x9): Attatched to Pumpkin String Lights, Jack-o'-Lantern, and Crystal Objects
 - Spot Lights (x4): Attatched to Lamps
-- 
+- Area Light: Attached to Laptop
 - Emmisive Materials - Laptop, Pumpkin String Lights, Jack-o'-Lantern, Crystal
