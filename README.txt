@@ -18,7 +18,7 @@ Here's a Link to a Google Drive hosted video of this project, both the Scene Edi
 and in the Play mode, which shows the scene's usage of Lighting and Particle Effects,
 as well as the newly added UI feature, which allows for the toggling of the indoor lights
 between on, dimmed, and off:
-
+https://drive.google.com/file/d/1w2eT6GAFYGG6QW2unRd9z5LGTaz4MUFc/view?usp=sharing
 
 
 New Objects/Assets Added:
@@ -37,6 +37,6 @@ Lighting Transition Used:
 - UI Button to Toggle Lights Between On, Dimmed, and Off
 
 Particle Systems:
-- Dust Particle Systsem (Around Whole Room)
-- Sparkle Particle System (Attatched to Crystal)
-- Glow Particle System (Attatched to Crystal)
+- Subtle Dust Particle Systsem (Around Whole Room)
+- Sparkle and Glow Particle Systems (Attatched to Crystal)
+
